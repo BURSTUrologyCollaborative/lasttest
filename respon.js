@@ -57,7 +57,6 @@ google.charts.load('current', {
       ['United States', 8],
       ['Venezuela', 1],
       ['Vietnam', 2],
-      ['GB', 256],
 
     ]);
 
