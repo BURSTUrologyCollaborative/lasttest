@@ -54,7 +54,7 @@ google.charts.load('current', {
       ['Thailand', 1],
       ['Turkey',6 ],
       ['United Arab Emirates', 1],
-      ['USA', 8],
+      ['United States', 8],
       ['Venezuela', 1],
       ['Vietnam', 2],
       ['GB', 256],
