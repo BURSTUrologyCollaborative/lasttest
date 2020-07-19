@@ -57,10 +57,13 @@ google.charts.load('current', {
       ['United States', 8],
       ['Venezuela', 1],
       ['Vietnam', 2],
+      ['GB', 256],
 
     ]);
 
-    var options = {};
+    var options = {
+      colorAxis: {colors: ['#90EE90','black', 'blue', '#e31b23']},
+      };
 
     var chart = new google.visualization.GeoChart(document.getElementById('regions_div'));
 
