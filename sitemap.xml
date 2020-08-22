@@ -11,6 +11,8 @@
 <url> <loc>https://www.example.com/Achievements/prizes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/Achievements/publication/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.example.com/Studies/Identify/Overview/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.example.com/Studies/Identify/study-team/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/Studies/Resect/Overview/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/Studies/Resect/study-team/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
